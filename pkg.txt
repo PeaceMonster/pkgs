@@ -97,6 +97,7 @@ kwalletmanager
 kwayland-integration
 kwin
 kwrited
+lazygit
 less
 lib32-libcanberra
 lib32-libva-intel-driver
